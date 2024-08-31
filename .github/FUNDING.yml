@@ -1,0 +1,38 @@
+
+```yaml
+# This file helps you specify how users can financially support your project.
+
+funding:
+  # You can use any of the following to specify how users can support your project:
+  # GitHub Sponsors, Patreon, Open Collective, and PayPal.
+
+  # Example for GitHub Sponsors
+  - platform: GitHub Sponsors
+    url: https://github.com/sponsors/YOUR_GITHUB_PROFILE
+
+  # Example for Patreon
+  - platform: Patreon
+    url: https://www.patreon.com/YOUR_PATREON_PROFILE
+
+  # Example for Open Collective
+  - platform: Open Collective
+    url: https://opencollective.com/YOUR_OPEN_COLLECTIVE_PROFILE
+
+  # Example for PayPal
+  - platform: PayPal
+    url: https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID
+
+  # Example for Bitcoin
+  - platform: Bitcoin
+    address: YOUR_BITCOIN_ADDRESS
+
+  # Example for Ethereum
+  - platform: Ethereum
+    address: YOUR_ETHEREUM_ADDRESS
+
+  # Example for Litecoin
+  - platform: Litecoin
+    address: YOUR_LITECOIN_ADDRESS
+
+  # Add more platforms as needed
+```
