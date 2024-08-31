@@ -1,0 +1,84 @@
+.app-container {
+    padding: 20px;
+}
+
+.login-container,
+.register-container,
+.dashboard-container,
+.quiz-list-container,
+.quiz-detail-container,
+.leaderboard-container {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.header,
+.footer {
+    padding: 10px;
+    background-color: #f8f9fa;
+}
+
+.header {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    border-top: 1px solid #0080ff;
+}
+
+/* Page Specific Styles */
+.home {
+    text-align: center;
+}
+
+.login-container,
+.register-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.login-container h2,
+.register-container h2 {
+    margin-bottom: 20px;
+}
+
+.login-container .form-group,
+.register-container .form-group {
+    margin-bottom: 15px;
+}
