@@ -1,37 +1,12 @@
-<<<<<<< HEAD
-For creating an open-source project, it's crucial to provide comprehensive documentation to help other developers understand, contribute to, and use your project. Here’s a step-by-step guide to setting up the documentation for your project, **Quizzit**:
-
----
-
 # Quizzit Documentation
-=======
-# Quizzit
-
-**Quizzit** is an interactive quiz platform designed to provide engaging and real-time quiz experiences. Built with React JS, Node.js with Express, and MongoDB, Quizzit allows users to participate in live quiz events, answer questions in real-time, and view leaderboards.
->>>>>>> 73dd16bc8c176272e444843d3c28e03f384105f3
 
 ## 1. Introduction
 
-<<<<<<< HEAD
 **Quizzit** is an interactive quiz platform that allows users to participate in real-time quizzes. This documentation provides a detailed overview of the project, including setup instructions, API references, and contribution guidelines.
-=======
-- **Live Quiz Events:** Create and manage live quiz events.
-- **Interactive UI:** Responsive and engaging UI built with React JS.
-- **Leaderboard:** Real-time leaderboards displaying top scores.
-- **Customizable Quizzes:** Various quiz formats supported.
-- **User Profiles:** Registration, login, and quiz performance tracking.
->>>>>>> 73dd16bc8c176272e444843d3c28e03f384105f3
 
 ## 2. Project Overview
 
-<<<<<<< HEAD
 **Quizzit** is designed to facilitate interactive quiz sessions where users can join events, answer questions, and view real-time leaderboards.
-=======
-- **Frontend:** React JS
-- **Backend:** Node.js with Express
-- **Database:** MongoDB
-- **Real-Time Communication:** Socket.io
->>>>>>> 73dd16bc8c176272e444843d3c28e03f384105f3
 
 ## 3. Table of Contents
 
@@ -47,18 +22,11 @@ For creating an open-source project, it's crucial to provide comprehensive docum
 
 ### Prerequisites
 
-<<<<<<< HEAD
 - Node.js (v14 or higher)
 - MongoDB (local or cloud instance)
-=======
-- **Node.js** (v14 or higher)
-- **MongoDB** (local or cloud instance)
-- **npm** or **yarn** (package managers)
->>>>>>> 73dd16bc8c176272e444843d3c28e03f384105f3
 
 ### Clone the Repository
 
-<<<<<<< HEAD
 ```bash
 git clone https://github.com/imdeepakyadav/Quizzit.git
 cd Quizzit
@@ -194,7 +162,8 @@ Visit `http://localhost:3000` in your browser to access the application.
 
 ### Frontend
 
-- **client/src/App.jsx**: Main application component.- **client/src/components/**: Contains React components (e.g., `Header`, `Footer`, `Login`, `Register`, `Dashboard`, `QuizList`, `QuizDetail`).
+- **client/src/App.jsx**: Main application component.
+- **client/src/components/**: Contains React components (e.g., `Header`, `Footer`, `Login`, `Register`, `Dashboard`, `QuizList`, `QuizDetail`).
 - **client/src/pages/**: Contains page components (e.g., `Home`, `Login`, `Register`, `Dashboard`, `Leaderboard`, `Quizzes`).
 - **client/src/styles/**: Contains CSS and Bootstrap styles.
 
@@ -218,88 +187,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 10. Contact
 
 For questions or feedback, please contact the project maintainer at [your-email@example.com].
-
----
-
-Feel free to adjust the documentation based on your project's needs!
-=======
-1. Clone the Repository:
-
-   ```bash
-   git clone https://github.com/imdeepakyadav/Quizzit.git
-   cd Quizzit
-Install Dependencies:
-
-For the backend:
-
-bash
-Copy code
-cd server
-npm install
-For the frontend:
-
-bash
-Copy code
-cd ../client
-npm install
-Configure Environment Variables:
-
-Create a .env file in the server directory with:
-
-plaintext
-Copy code
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-Create a .env file in the client directory for frontend configurations if needed.
-
-Run the Application:
-
-Start the backend server:
-
-bash
-Copy code
-cd server
-npm start
-Start the frontend development server:
-
-bash
-Copy code
-cd ../client
-npm start
-Access the Application:
-
-Open http://localhost:3000 in your browser.
-
-Usage
-Creating a Quiz Event: Use the admin dashboard to create and manage events.
-Participating in Quizzes: Join and answer questions in real-time.
-Viewing Leaderboards: Check rankings and scores.
-Contributing
-Fork the repository.
-
-Create a feature branch:
-
-bash
-Copy code
-git checkout -b feature/your-feature
-Commit your changes:
-
-bash
-Copy code
-git commit -am 'Add new feature'
-Push to the branch:
-
-bash
-Copy code
-git push origin feature/your-feature
-Create a Pull Request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-React JS: UI framework.
-Node.js: Server-side environment.
-MongoDB: NoSQL database.
-Socket.io: Real-time communication.
->>>>>>> 73dd16bc8c176272e444843d3c28e03f384105f3
