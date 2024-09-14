@@ -36,7 +36,7 @@ io.on("connection", (socket) => {
 
 // Basic route
 app.get("/", (req, res) => {
-  res.send("Quizzit Backend");
+  res.send("Quiztrix Backend");
 });
 
 // --- User Routes ---

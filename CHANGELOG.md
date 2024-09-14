@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Add initial project setup for the Quizzit platform.
+- Add initial project setup for the Quiztrix platform.
 - Implemented basic API endpoints for user management, quizzes, quiz events, user answers, and leaderboards.
 - Created front-end components including login, registration, dashboard, and quizzes pages.
 - Added socket.io for real-time communication.

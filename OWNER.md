@@ -2,8 +2,8 @@
 
 ## Project Owner
 
-**Project Name:** Quizzit  
-**Repository:** [Quizzit on GitHub](https://github.com/imdeepakyadav/Quizzit)
+**Project Name:** Quiztrix  
+**Repository:** [Quiztrix on GitHub](https://github.com/imdeepakyadav/Quiztrix)
 
 ### Owner Information
 
@@ -16,9 +16,9 @@
 
 For inquiries related to the project, please use the following contact details:
 
-- **General Inquiries:** [contact@quizzit.com](mailto:contact@quizzit.com)
-- **Support Requests:** [support@quizzit.com](mailto:support@quizzit.com)
-- **Security Issues:** [security@quizzit.com](mailto:security@quizzit.com)
+- **General Inquiries:** [contact@Quiztrix.com](mailto:contact@Quiztrix.com)
+- **Support Requests:** [support@Quiztrix.com](mailto:support@Quiztrix.com)
+- **Security Issues:** [security@Quiztrix.com](mailto:security@Quiztrix.com)
 
 ### Roles and Responsibilities
 
