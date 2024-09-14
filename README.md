@@ -1,12 +1,12 @@
-# Quizzit Documentation
+# Quiztrix Documentation
 
 ## 1. Introduction
 
-**Quizzit** is an interactive quiz platform that allows users to participate in real-time quizzes. This documentation provides a detailed overview of the project, including setup instructions, API references, and contribution guidelines.
+**Quiztrix** is an interactive quiz platform that allows users to participate in real-time quizzes. This documentation provides a detailed overview of the project, including setup instructions, API references, and contribution guidelines.
 
 ## 2. Project Overview
 
-**Quizzit** is designed to facilitate interactive quiz sessions where users can join events, answer questions, and view real-time leaderboards.
+**Quiztrix** is designed to facilitate interactive quiz sessions where users can join events, answer questions, and view real-time leaderboards.
 
 ## 3. Table of Contents
 
@@ -28,8 +28,8 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/imdeepakyadav/Quizzit.git
-cd Quizzit
+git clone https://github.com/imdeepakyadav/Quiztrix.git
+cd Quiztrix
 ```
 
 ### Setup the Backend

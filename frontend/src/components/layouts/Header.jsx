@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <Link className="navbar-brand" to="/">
-        Quizzit
+        Quiztrix
       </Link>
       <div className="collapse navbar-collapse">
         <ul className="navbar-nav mr-auto">

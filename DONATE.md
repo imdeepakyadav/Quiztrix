@@ -1,14 +1,14 @@
-# Donate to Quizzit
+# Donate to Quiztrix
 
-Thank you for your interest in supporting the Quizzit project! Your contributions help us continue improving the project, maintain its quality, and add new features.
+Thank you for your interest in supporting the Quiztrix project! Your contributions help us continue improving the project, maintain its quality, and add new features.
 
 ## How to Donate
 
-There are several ways you can support Quizzit:
+There are several ways you can support Quiztrix:
 
 ### 1. **Donate via PayPal**
 
-You can make a one-time or recurring donation via PayPal. Your contributions will go directly to supporting the development and maintenance of Quizzit.
+You can make a one-time or recurring donation via PayPal. Your contributions will go directly to supporting the development and maintenance of Quiztrix.
 
 - **PayPal Link:** [Donate via PayPal](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID)
 
@@ -45,7 +45,7 @@ Your donations will be used for:
 
 We greatly appreciate any support you can provide, whether it's financial or through contributing to the project in other ways. If you have any questions or suggestions, please feel free to reach out to us.
 
-For more information, you can contact us at [contact@quizzit.com](mailto:contact@quizzit.com).
+For more information, you can contact us at [contact@Quiztrix.com](mailto:contact@Quiztrix.com).
 
 ---
 
