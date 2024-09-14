@@ -1,6 +1,6 @@
 # Contributing to Quiztrix
 
-Thank you for your interest in contributing to Quiztrix! We welcome contributions from the community to help make the project better. This document provides guidelines for contributing to Quiztrix.
+Thank you for your interest in contributing to Quiztrix, We welcome contributions from the community to help make the project better. This document provides guidelines for contributing to Quiztrix.
 
 ## How to Contribute
 
